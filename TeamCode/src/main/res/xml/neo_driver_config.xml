@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Robot type="FirstInspires-FTC">
+    <LynxUsbDevice name="Control Hub Portal" serialNumber="(embedded)" parentModuleAddress="173">
+        <LynxModule name="Control Hub" port="173">
+            <NeoDriver name="led" port="0" bus="3" />
+        </LynxModule>
+    </LynxUsbDevice>
+</Robot>
